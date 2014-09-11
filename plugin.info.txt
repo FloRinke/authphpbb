@@ -1,0 +1,7 @@
+base   authphpbb
+author Florian Rinke
+email  github+authphpbb@florianrinke.de
+date   2013-05-18
+name   phpbb auth plugin
+desc   Provides authentication against a phpbb3-installation using authmysql-plugin
+url    http://www.fs-eit.de
